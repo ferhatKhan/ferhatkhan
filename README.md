@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ferhat Ullah Khan 👋
 
-<!--
-**ferhatKhan/ferhatkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior .NET / Azure Full Stack Developer | C# · ASP.NET Core · Angular · React · Node.js
 
-Here are some ideas to get you started:
+I work on enterprise applications across **backend development, frontend engineering, Microsoft Azure, and production support**. My professional experience includes modernizing applications, delivering APIs and UI features, troubleshooting incidents, and improving release processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently at **Accenture**, working on enterprise .NET, Angular and Azure systems
+- 🧩 Previously at **Hexaware Technologies**, with experience in Node.js, React.js, .NET and cloud application development
+- ☁️ Focused on **C#, ASP.NET Core, Microsoft Azure, Angular, microservices and CI/CD**
+- 🤖 Use **GitHub Copilot, ChatGPT and Claude** as AI-assisted development tools
+- 📍 India | Open to relevant Senior .NET, Azure Full Stack and Technical Lead opportunities
+
+## 🛠️ Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, ASP.NET Core, .NET Core, REST APIs, Node.js |
+| Frontend | Angular, React.js, JavaScript, TypeScript |
+| Cloud & delivery | Microsoft Azure, Azure Functions, Azure App Service, Azure DevOps, CI/CD |
+| Data | SQL Server, Azure SQL, PostgreSQL, MongoDB |
+| Observability | OpenTelemetry, Winston, Morgan |
+| AI-assisted coding | GitHub Copilot, ChatGPT, Claude |
+
+## 💼 Experience highlights
+
+- **Accenture:** Work involving Microsoft's Volume Licensing platform using .NET Core, Azure services, and Angular. Experience with bug fixing, production issues, deployments, code reviews, and a `ValidationService` for business-rule validation of amendment requests.
+- **GSK client engagement (at Accenture):** .NET Core Web API development, data-access and business-logic components.
+- **Hexaware Technologies:** Worked on RapidX, Tensai and AMAZE, using combinations of Node.js, React.js, ASP.NET Core, Angular, Azure and databases.
+
+> **Note:** Client engagements above describe professional experience, not public-source repositories. Proprietary client code and internal project details are not shared here.
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhat-ullah-khan-72178791/)
+
+Thanks for visiting my profile!
